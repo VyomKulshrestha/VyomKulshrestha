@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing my bachelors in cse(aiml) from VIT Bhopal
 - 💞️ Looking forward to enhance my skills...
 - 📫 Linkedin Profile--www.linkedin.com/in/
-vyom-kulshrestha
+vyomkulshrestha
 
 <!---
 VyomKulshrestha/VyomKulshrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

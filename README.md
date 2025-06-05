@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VyomKulshrestha
 - 👀 I’m interested in AI, Java, Machine Learning, Python
-- 🌱 I’m currently doing my bachelors in cse(aiml) from VIT Bhopal
+- 🌱 I’m currently doing my bachelors in cse(aiml) from VIT 
 - 💞️ Looking forward to enhance my skills...
 - 📫 Linkedin Profile--https://rb.gy/q8gq1
 

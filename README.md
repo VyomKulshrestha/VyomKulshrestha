@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VyomKulshrestha
 - 👀 I’m interested in AI Agents and Automations, System Design, Machine Learning, Deep Learning, Python, Web development
 - 🌱 I’m currently doing my bachelors in cse(aiml) from VIT 
-- 💞️ Looking forward to enhance my skills...
+- Looking forward to enhance my skills...
 - 📫 Linkedin Profile--https://linkedin.com/in/vyomkulshrestha 
 
 <!---

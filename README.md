@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vyomkulshrestha.github.io-58a6ff?style=for-the-badge&logo=safari&logoColor=white)](https://vyomkulshrestha.github.io/portfolio_main/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vyomkulshrestha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vyomkulshrestha)
-[![GSSoC](https://img.shields.io/badge/GSSoC%202026-Project%20Admin-orange?style=for-the-badge&logo=girlscript&logoColor=white)]([https://gssoc.girlscript.org](https://gssoc.girlscript.org/profile/ed7de2e7-9dde-42df-9811-c0126078ea4a))
+[![GSSoC](https://img.shields.io/badge/GSSoC%202026-Project%20Admin-orange?style=for-the-badge&logo=girlscript&logoColor=white)](https://gssoc.girlscript.org/profile/ed7de2e7-9dde-42df-9811-c0126078ea4a)
 
 </div>
 
@@ -129,7 +129,7 @@ class Vyom:
 
 ## 🏆 Highlights
 
-- 🎖️ **GSSoC 2026** — Project Admin (Heliox OS)
+- 🎖️ **GSSoC 2026** — [Project Admin](https://gssoc.girlscript.org/profile/ed7de2e7-9dde-42df-9811-c0126078ea4a) (Heliox OS)
 - 🎓 **CSE (AI/ML)** @ VIT — Pre-Final Year
 - 🔭 Building AI systems that see, hear, and act autonomously
 - 🌐 Contributed to AI Agents on the Arweave permaweb
@@ -153,8 +153,3 @@ If you're building something ambitious in AI agents, automation, or multimodal s
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!---
-VyomKulshrestha/VyomKulshrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

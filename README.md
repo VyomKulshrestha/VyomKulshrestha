@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vyomkulshrestha.github.io-58a6ff?style=for-the-badge&logo=safari&logoColor=white)](https://vyomkulshrestha.github.io/portfolio_main/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vyomkulshrestha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vyomkulshrestha)
-[![GSSoC](https://img.shields.io/badge/GSSoC%202026-Project%20Admin-orange?style=for-the-badge&logo=girlscript&logoColor=white)](https://gssoc.girlscript.org)
+[![GSSoC](https://img.shields.io/badge/GSSoC%202026-Project%20Admin-orange?style=for-the-badge&logo=girlscript&logoColor=white)]([https://gssoc.girlscript.org](https://gssoc.girlscript.org/profile/ed7de2e7-9dde-42df-9811-c0126078ea4a))
 
 </div>
 

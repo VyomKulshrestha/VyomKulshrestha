@@ -1,254 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vyom%20Kulshrestha&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20that%20thinks%2C%20acts%2C%20and%20understands%20%E2%80%94%20from%20the%20kernel%20up&descAlignY=58&descColor=8b949e&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0b3b5a&height=205&section=header&text=Vyom%20Kulshrestha&fontSize=46&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Building%20agentic%20systems%20from%20desktop%20interaction%20to%20kernels%20and%20DNA%20storage&descAlignY=59&descColor=b1bac4&descSize=15" width="100%" alt="Vyom Kulshrestha"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Founder+%40+Heliox+OS+%7C+FerrumOS+%7C+Nucle-OS;Agentic+OS+%7C+World+Models+%7C+DNA+Storage;Rust+%7C+Python+%7C+TypeScript+%7C+no_std+bare+metal;GSSoC+2026+%26+NSOC+2026+Project+Admin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=58A6FF&center=true&vCenter=true&width=850&lines=Open-source+AI+systems+engineer+and+founder;Heliox+OS+%C2%B7+FerrumOS+%C2%B7+Nucle-OS;Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+no_std;Autonomy+with+evidence%2C+permissions%2C+and+verification)](https://git.io/typing-svg)
 
-<br/>
-
-[![Website](https://img.shields.io/badge/Heliox_OS-www.helioxos.dev-58a6ff?style=for-the-badge&logo=safari&logoColor=white)](https://www.helioxos.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vyomkulshrestha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vyomkulshrestha)
-[![GSSoC](https://img.shields.io/badge/GSSoC%202026-Project%20Admin-orange?style=for-the-badge&logo=girlscript&logoColor=white)](https://gssoc.girlscript.org/profile/ed7de2e7-9dde-42df-9811-c0126078ea4a)
+[![Heliox](https://img.shields.io/badge/Heliox_OS-Live-58a6ff?style=for-the-badge&logo=safari&logoColor=white)](https://www.helioxos.dev)
+[![FerrumOS](https://img.shields.io/badge/FerrumOS-Research_OS-ff6b6b?style=for-the-badge&logo=rust&logoColor=white)](https://ferrum-os.vercel.app)
+[![NucleScript](https://img.shields.io/badge/NucleScript-Try_in_browser-3fb950?style=for-the-badge&logo=webassembly&logoColor=white)](https://nuclescript.github.io/playground/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vyomkulshrestha)
+[![Sponsor](https://img.shields.io/badge/GitHub-Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/VyomKulshrestha)
 
 </div>
 
----
+## About me
 
-## 🧠 About Me
+I am an AI systems engineer and open-source founder in Agra, India, with a CSE (AI/ML) background from VIT. I work across the full stack: Rust kernels and `no_std` userland, Python agent runtimes, TypeScript interfaces, model evaluation, CI, releases, and product design.
 
-```python
-class Vyom:
-    name       = "Vyom Kulshrestha"
-    role       = "AI Systems Engineer & Founder"
-    university = "VIT — CSE (AI/ML) · Coursework completed April 2026"
-    location   = "Agra, India 🇮🇳"
+My recurring question is:
 
-    building   = {
-        "Heliox OS":  "Voice + gesture AI desktop agent — JARVIS for everyone",
-        "FerrumOS":   "Custom OS kernel in Rust — AI agent + Phase 2 world model on bare metal",
-        "Nucle-OS":   "Software-defined DNA storage OS + NucleScript compiler + LSP + WASM playground",
-    }
+> How do we give an agent useful autonomy without confusing intelligence with authority?
 
-    stack      = ["Rust", "Python", "TypeScript", "no_std", "bare metal"]
-    interests  = ["Agentic AI", "World Models", "Systems Engineering", "DNA Storage", "Compilers"]
-    open_to    = ["collaborations", "research", "open source"]
-```
+That is why my projects publish capability boundaries, reproducible evidence, failure history, and limitations alongside the features.
+
+## Three systems, one direction
+
+| Project | What exists today | Start with the evidence |
+|---|---|---|
+| [**Heliox OS**](https://github.com/VyomKulshrestha/Heliox-OS) | Local-first desktop agent for typed, voice, gesture, gaze, browser, application, and system interaction. Its 21-specialist mesh registers providers for 156 declared actions. | [Website](https://www.helioxos.dev) · [Proof](https://www.helioxos.dev/proof.html) · [Capabilities](https://www.helioxos.dev/capabilities.json) |
+| [**FerrumOS**](https://github.com/VyomKulshrestha/Ferrum-OS) | Bootable x86_64 Rust research OS with Ring-3 userland, 61 capability-gated syscalls, 41 canonical agent operations, and a JEPA-assisted predictive safety screen. | [Website](https://ferrum-os.vercel.app) · [Proof](https://ferrum-os.vercel.app/proof) · [Research paper](https://doi.org/10.5281/zenodo.21829808) |
+| [**Nucle-OS**](https://github.com/VyomKulshrestha/Nucle-OS) | Software-defined DNA storage engine plus NucleScript, a compiler-checked DSL for molecular-storage workflows. The current workspace documents 729 discovered tests. | [README and benchmarks](https://github.com/VyomKulshrestha/Nucle-OS#readme) · [Live playground](https://nuclescript.github.io/playground/) |
 
 ---
 
-## 🚀 The Ecosystem — Three Projects, One Vision
-
-> I'm building a complete agentic computing stack: a desktop agent for today's hardware, a kernel designed for agents underneath it, and a research-grade molecular storage layer for the future.
-
----
-
-### 🔵 Heliox OS — The Desktop Agent
+## Heliox OS — multimodal computer control
 
 <div align="center">
 
-[![Heliox OS](https://github-readme-stats.vercel.app/api/pin/?username=VyomKulshrestha&repo=Heliox-OS&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/VyomKulshrestha/Heliox-OS)
-
-</div>
-
-> An open-source JARVIS for your desktop. Control your computer with voice and hand gestures. The agent plans, executes, and reflects — autonomously, locally, privately.
-
-- 🎙️ **"Hey Heliox"** always-on wake word + **30+ hand gestures** (OpenCV) at **sub-800ms** latency
-- 🧩 Full **ReAct loop**: Memory → Planning → Routing → Execution → Verification → Reflection
-- 🔒 **Privacy-first**: fully local via Ollama + optional cloud (Gemini, GPT-4o, Claude)
-- 🪟 **Cross-platform**: Tauri (Rust + Svelte) + FastAPI daemon on Windows, macOS, Linux
-- 🤖 **Multi-agent**: 5 specialist agents (System, Code, Web, Monitor, Communications), 50+ action types
-- 🧠 **13 research-level features**: TRIBE v2 cognitive engine, persistent vector memory (ChromaDB), self-reflection loop, simulation sandbox, self-improving prompt system, proactive suggestion engine, subconscious persona learning, always-on screen vision
-- 🔌 **Plugin ecosystem**: Developer Tools, Media Control, Home Assistant — drop custom plugins into `~/.heliox/plugins/`
-- ✅ **80%+ pass rate** on a 10-task autonomous benchmark (web scraping, OCR, code execution, REST APIs)
+[![Heliox OS](https://github-readme-stats.vercel.app/api/pin/?username=VyomKulshrestha&repo=Heliox-OS&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=b1bac4)](https://github.com/VyomKulshrestha/Heliox-OS)
 
 [![Stars](https://img.shields.io/github/stars/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/stargazers)
-[![Forks](https://img.shields.io/github/forks/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/network/members)
-[![PRs merged](https://img.shields.io/badge/PRs%20merged-125-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/pulls?q=is%3Apr+is%3Aclosed)
-[![Issues](https://img.shields.io/github/issues/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/issues)
-[![Releases](https://img.shields.io/github/v/release/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/releases)
-
----
-
-### 🔴 FerrumOS — The Kernel
-
-<div align="center">
-
-[![FerrumOS](https://github-readme-stats.vercel.app/api/pin/?username=VyomKulshrestha&repo=Ferrum-OS&theme=github_dark&border_color=30363d&title_color=ff6b6b&icon_color=ff6b6b&text_color=8b949e)](https://github.com/VyomKulshrestha/Ferrum-OS)
+[![Forks](https://img.shields.io/github/forks/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/forks)
+[![Release](https://img.shields.io/github/v/release/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/VyomKulshrestha/Heliox-OS/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/VyomKulshrestha/Heliox-OS/actions/workflows/ci.yml)
 
 </div>
 
-> A complete OS in Rust where the AI agent has full hardware control — sees the screen, hears audio, types, clicks, browses the web. No Linux. No Python. No middleware. Now with a shipped Phase 2 world model safety gate.
+Heliox is an MIT-licensed desktop agent for Windows, macOS, and Linux. It converts natural-language and opt-in multimodal input into validated plans, asks before risky work, and routes actions through permission and verification contracts.
 
-**Kernel & Userspace**
-- ⚙️ **47 syscalls** · ELF loader · Ring-3 userspace · preemptive scheduler · mmap · on-demand lazy alloc
-- 🖥️ **Full GUI**: custom compositor + window manager + App Store + **7 real userland apps** (Heliox Assistant, Browser, Text Editor, Calculator, File Manager, Settings, App Store)
-- 📦 **libferrumgui** — no_std SDK for building new apps (RGBA8 canvas, IPC, input polling)
-- 📦 **ferrumpkg** — real package manager (ELF binary install/remove/run, persisted registry)
-- 👤 **Multi-user accounts** — real capability-swapping on login (root / user / guest)
-- 🎮 **VirtIO-GPU 2D** acceleration (optional, additive over Bochs VBE fallback)
+- **156 declared action types** backed by **21 executable specialists**.
+- Text, continuous voice, gesture, gaze-region signals, screen context, and experimental neural input share a priority-controlled interaction path.
+- Local and cloud model providers, plugin manifests, a repository-governed marketplace, approval gates, rollback planning, and outcome verification.
+- Public capability catalog, benchmark artifacts, release feeds, failure notes, and agent-readable documentation.
+- The measured guarded CPU-status fast path is **28.640 ms median / 30.490 ms p95** across 100 non-LLM iterations; it is not presented as end-to-end voice, browser, provider, or UI latency.
 
-**Agent & World Model**
-- 🤖 **heliox-daemon**: 39 agent tools across 5 permission tiers · on-device LLM (ships real `stories15M-q8.bin`) · JSON-RPC 2.0 WebSocket API (port 8785)
-- 🌍 **Phase 2 world model safety gate** — ships in production:
-  - MLP transition model trained offline on real collected data (`scripts/train_world_model.py`), loaded at boot like the LLM checkpoint
-  - Autoencoder state encoder: hand-crafted safety-critical scalars + learned latent code from real OS snapshots
-  - **Multi-step lookahead simulation**: simulates an action several steps ahead, catching effects that only compound over time
-  - Falls back to hand-coded rule table when no trained weights are staged
-  - Every tool call written to `/disk/heliox/world/exp.bin` as `(state, action, outcome)` training tuple
-
-**Hardware**
-- 🔊 Intel HDA audio DMA · 📷 Camera YUYV capture · 🖱️ PS/2 mouse + USB HID · XHCI USB 3.0 · RTL8139 + smoltcp TCP/IP + WebSocket RFC 6455 · VGA framebuffer 1024×768 · RDRAND CSPRNG · RTC time
-
-**Security**
-- 🛡️ 5-tier permission model · RIP-2 instruction rewinding for restartable blocking calls · persistent deadlock-free audit logging · syscall rate limiting · CPU caps · memory bounds
+**Current limitation:** provider coverage is not the same as independently observed success. Eleven of the 156 actions currently have an independent post-condition verifier; hardware accuracy for microphones, cameras, gaze, gestures, and EEG requires human testing.
 
 ---
 
-### 🟢 Nucle-OS — The Storage Layer
+## FerrumOS — an operating system boundary for agents
 
 <div align="center">
 
-[![Nucle-OS](https://github-readme-stats.vercel.app/api/pin/?username=VyomKulshrestha&repo=Nucle-OS&theme=github_dark&border_color=30363d&title_color=3fb950&icon_color=3fb950&text_color=8b949e)](https://github.com/VyomKulshrestha/Nucle-OS)
+[![FerrumOS](https://github-readme-stats.vercel.app/api/pin/?username=VyomKulshrestha&repo=Ferrum-OS&theme=github_dark&border_color=30363d&title_color=ff6b6b&icon_color=ff6b6b&text_color=b1bac4)](https://github.com/VyomKulshrestha/Ferrum-OS)
+
+[![Research DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21829808.svg)](https://doi.org/10.5281/zenodo.21829808)
+[![CI](https://img.shields.io/github/actions/workflow/status/VyomKulshrestha/Ferrum-OS/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/VyomKulshrestha/Ferrum-OS/actions/workflows/ci.yml)
 
 </div>
 
-> A software-defined DNA storage OS in Rust — the driver layer that molecular data storage plugs into. Complete with a programming language, compiler, language server, VS Code extension, and live WASM playground.
+FerrumOS studies what changes when an agent acts through an operating-system security boundary rather than only through application-level tools.
 
-**Engine (7-layer architecture)**
-- 🧬 Synthesis Simulator — Illumina / Oxford Nanopore / Twist Bioscience hardware profiles, realistic substitution/indel/dropout distributions
-- 🔡 Encoding Engine — **Yin-Yang codec at 1.798 bits/nt**, Ternary Rotating Cipher, DNA Fountain · GC 40–60%, no homopolymer runs >3, no hairpins — enforced at compile time
-- 🔧 Error Correction — Reed-Solomon **(Berlekamp-Welch combined error+erasure decoder, two real bugs fixed)**, Fountain/LT erasure codes, **Partial-Order Alignment (POA) consensus** with multi-round polishing and fold-order-independence guarantee
-- 🔍 Retrieval & Index — primer-based addressing with indel-tolerant matching, CRISPR-sim random access, vector similarity index, semantic search
-- 📁 VFS/File API — `dna_write`, `dna_read`, `dna_stat`, `dna_delete`, `nucle migrate` (codec/redundancy migration)
-- 🤖 Agent Interface — ReAct planner for natural-language DNA file operations
-- 🔌 Hardware Bridge — `Provider` trait with `submit()` → `JobHandle` (MockProvider, DelayedMockProvider for concurrent submission, FileExportProvider for lab JSON batch export)
+- Bootable Rust kernel, ELF loading, real Ring-3 processes, scheduler, filesystem, GUI, and package/runtime services.
+- **61-syscall ABI**, **41 canonical agent operations**, and **five permission tiers**.
+- Every public tool path passes through deterministic policy and a provider-independent predictive screen before execution.
+- Public QEMU evidence covers **101/101 focused command paths** and **81/81 catalog entries** for the recorded audit commit.
+- Ring-3 world-model preview measurements span **1.29–1.57 ms** run means across H=1…5 with zero measured heap growth in three runs.
+- Synthetic neural intent is bounded and fail-closed; physical predictions remain shadow-only and cannot grant actuator authority.
 
-**NucleScript DSL — a real programming language**
-```nsl
-pool medical_archive: DnaPool {
-    codec: YinYang,
-    redundancy: 4x,
-    profile: Illumina
-}
+The published fixture reports **81.4% balanced accuracy for rules + JEPA vs 81.2% for rules + a per-action mean baseline**. That is deliberately documented as no material JEPA advantage on that fixture—not hidden behind the headline.
 
-let noisy: Pool<Illumina, 0.35%> = simulate medical_archive under Illumina
-let recovered: Pool<Recovered> = consensus_vote(noisy, coverage: 10x)
-
-fn archive_with_fallback() returns Result<DnaFile, Str> {
-    let attempt: Result<DnaFile, Str> = store "patient_records.csv" into medical_archive
-    let saved: DnaFile = attempt?
-}
-```
-- 📐 **Type system**: `Pool<P, E>` probabilistic types propagating hardware error budgets · compile-time biological constraint validation · DNA sequence literals (`seq"ATCGATCG"`) validated at parse time
-- 🔀 **Control flow**: `if/for` (compile-time desugaring) · `Result<T, E>` + `?` (real runtime execution) · `match` with exhaustiveness checking · user-defined enums
-- 🧬 **Generics**: `fn recover_from<P>(source: Pool<P, 0.35%>)` — call-site unification, explicit type args
-- 🔒 **Effect gates**: `confirm hardware` / `confirm physical_key` enforced by the compiler for synthesis, sequencing, and destructive operations
-- 📦 **Functions**: named, anonymous closures with lexical capture, higher-order, self-recursive, effect-annotated `Fn(...) -> T confirm physical_key`
-- ⚙️ **Compiler**: bio-aware MIR optimizer · VFS lowering backend · `nucle check`, `nucle fmt`, `nucle test`, `nucle doc`, `nucle plan`, `nucle explain` · stable `E-*` error codes with `file:line:col` and rustc-style source snippets
-
-**Ecosystem**
-- 🧩 **VS Code extension** — syntax highlighting, language server (diagnostics, hover, go-to-definition, document outline), format on save, run from editor · published on VS Code Marketplace
-- 🌐 **WASM playground** — live at [nuclescript.github.io/playground](https://nuclescript.github.io/playground) · Write & Run tab, Benchmark Explorer, Pipeline Visualizer · all backed by real engine, zero server
-- 🖥️ **Standalone playground binary** — prebuilt Linux/Windows/macOS, frontend embedded, zero dependencies
-- 📦 **4 official packages**: `@nuclescript/presets`, `@nuclescript/profiles`, `@nuclescript/benchmarks`, `@nuclescript/recovery` · package lock + verify
-- 💬 **nucle_lsp** — full language server over stdio (tower-lsp, real Content-Length-framed JSON-RPC)
-- ✅ **527 tests** across 11 crates · 100% data recovery on Illumina noise · Nanopore: 5 deep bugs found, fixed, regressed
+> FerrumOS is a QEMU/Bochs research OS, not a claim of broad physical-PC compatibility, formal safety certification, or validated live EEG control.
 
 ---
 
-## 🛠️ Tech Stack
+## Nucle-OS — software-defined DNA storage
 
 <div align="center">
 
-**Languages**
+[![Nucle-OS](https://github-readme-stats.vercel.app/api/pin/?username=VyomKulshrestha&repo=Nucle-OS&theme=github_dark&border_color=30363d&title_color=3fb950&icon_color=3fb950&text_color=b1bac4)](https://github.com/VyomKulshrestha/Nucle-OS)
+
+[![Release](https://img.shields.io/github/v/release/VyomKulshrestha/Nucle-OS?style=flat-square&color=3fb950&labelColor=0d1117)](https://github.com/VyomKulshrestha/Nucle-OS/releases)
+[![Rust](https://img.shields.io/badge/Rust-workspace-3fb950?style=flat-square&logo=rust&labelColor=0d1117)](https://github.com/VyomKulshrestha/Nucle-OS)
+
+</div>
+
+Nucle-OS treats molecular storage as a software system with explicit codecs, recovery, indexing, policy, observability, and hardware-provider boundaries.
+
+- Eight-layer engine: synthesis simulation, encoding, ECC, retrieval/indexing, VFS, agent interface, hardware bridge, and block-device abstraction.
+- Yin–Yang, ternary, fountain, and direct-packing codecs with biological constraint checks.
+- Reed–Solomon error-and-erasure recovery, fountain erasure repair, and partial-order-alignment consensus.
+- Durable VFS with versioning, migration, capacity limits, encryption, integrity scanning, tenancy, audit logs, and Prometheus metrics.
+- NucleScript compiler, type/effect system, LSP, VS Code extension, package registry, CLI, native playground, and browser WASM playground.
+- **729 discovered tests: 728 passed and one ignored** in the documented workspace run.
+
+The project simulates and integrates DNA-storage workflows in software; it does not claim that every workflow has been run against a production wet lab.
+
+---
+
+## Research and reproducibility
+
+| Artifact | What it establishes | Boundary |
+|---|---|---|
+| [FerrumOS world-model report](https://doi.org/10.5281/zenodo.21829808) | Reproducible comparison of deterministic rules, JEPA, and baseline prediction at an OS action boundary | Authored fixture; not an independent replication or safety certificate |
+| [FerrumOS public dataset](https://doi.org/10.5281/zenodo.21829193) | Versioned evidence used by the published evaluation | Dataset scope does not establish physical deployment accuracy |
+| [Heliox proof center](https://www.helioxos.dev/proof.html) | Capability coverage, software benchmarks, known limitations, and failure history | Software CI does not replace physical microphone/camera/EEG testing |
+| [Nucle-OS benchmark documentation](https://github.com/VyomKulshrestha/Nucle-OS#demo--it-actually-works) | Codec, noise, ECC, recovery, and full-pipeline software evidence | Simulation and vendor adapters are not wet-lab validation |
+
+## Tools I reach for
+
+<div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=CE422B)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
-**Systems & OS**
-
-![bare metal](https://img.shields.io/badge/bare_metal-0d1117?style=for-the-badge&logo=linux&logoColor=white)
-![no_std Rust](https://img.shields.io/badge/no__std_Rust-0d1117?style=for-the-badge&logo=rust&logoColor=CE422B)
-![QEMU](https://img.shields.io/badge/QEMU-0d1117?style=for-the-badge&logo=qemu&logoColor=FF6600)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-0d1117?style=for-the-badge&logo=webassembly&logoColor=654FF0)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
-**Frameworks & Infra**
-
-![Tauri](https://img.shields.io/badge/Tauri-0d1117?style=for-the-badge&logo=tauri&logoColor=FFC131)
 ![Svelte](https://img.shields.io/badge/Svelte-0d1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Tauri](https://img.shields.io/badge/Tauri-0d1117?style=for-the-badge&logo=tauri&logoColor=FFC131)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-0d1117?style=for-the-badge&logo=webassembly&logoColor=654FF0)
+![QEMU](https://img.shields.io/badge/QEMU-0d1117?style=for-the-badge&logo=qemu&logoColor=FF6600)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
----
+## Build, validate, contribute
 
-## 📂 Other Projects
+I am interested in collaborations around agentic operating systems, capability security, assistive multimodal interfaces, world models, compilers, and molecular storage.
 
-| Project | Description | Stack |
-|---|---|---|
-| [**SnapAgent**](https://github.com/VyomKulshrestha/SnapAgent) | Multi-agent civilization: 10,000+ LLM-powered agents with persistent memory, faction dynamics, sociometric graph (50,000+ edges), and autonomous economic engine | TypeScript |
-| [**Mental Health Therapy AI**](https://github.com/VyomKulshrestha/mentalhealthTherapy) | Full-stack therapy platform with Gemini API chatbot, 3 CBT modules, serverless AWS backend (Lambda + API Gateway + CloudFront) | React · TypeScript · AWS |
-| [**NASA Exoplanet Detection**](https://github.com/VyomKulshrestha/nasa-exoplanet-detection) | Deep learning pipeline for classifying exoplanets from NASA Kepler light-curve time series data | Python · PyTorch |
-| [**AO AI Agents**](https://github.com/VyomKulshrestha/ao-ai-agents) | AI agents running persistently on the Arweave permaweb (AO compute layer) | JavaScript |
-
----
-
-## 📊 GitHub Stats
+- Start with [Heliox issues](https://github.com/VyomKulshrestha/Heliox-OS/issues) if you want to improve a user-facing agent.
+- Start with [FerrumOS research and architecture](https://github.com/VyomKulshrestha/Ferrum-OS#start-here) if you work on OS or model safety boundaries.
+- Try [NucleScript in the browser](https://nuclescript.github.io/playground/) if compilers or DNA storage are your direction.
+- Sponsor physical validation, clean-machine testing, and open hardware research through [GitHub Sponsors](https://github.com/sponsors/VyomKulshrestha).
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VyomKulshrestha&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyomKulshrestha&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VyomKulshrestha&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- 🎖️ **GSSoC 2026** — Project Admin (Heliox OS) · **NSOC 2026** — Project Admin (Heliox OS)
-- ⭐ **Heliox OS**: 50+ stars · 100+ forks · 125+ merged community PRs · 200+ issues triaged · 19 releases
-- 🦀 **FerrumOS**: Complete agentic OS — 47 syscalls · full GUI desktop · 7 userland apps · ferrumpkg · multi-user accounts · Phase 2 world model (MLP + autoencoder + multi-step lookahead) running in production
-- 🧬 **Nucle-OS**: DNA storage OS — NucleScript compiler + LSP + VS Code extension + WASM playground · 527 tests · Berlekamp-Welch RS decoder · POA consensus · 4 published packages
-- 🌍 **World model shipped**: MLP transition model + autoencoder state encoder + multi-step lookahead simulation — first open-source world model running at OS kernel level
-- 🎓 CSE (AI/ML) @ VIT · Coursework completed April 2026 · Building full-time
-
----
-
-## 🤝 Let's Build Together
-
-<div align="center">
-
-If you're building something ambitious in agentic AI, systems engineering, compilers, or molecular computing — I'd love to connect.
-
-[![Heliox OS](https://img.shields.io/badge/🌐_Heliox_OS-www.helioxos.dev-58a6ff?style=for-the-badge)](https://www.helioxos.dev)
-[![NucleScript Playground](https://img.shields.io/badge/🧬_NucleScript-Try_Live_Playground-3fb950?style=for-the-badge)](https://nuclescript.github.io/playground)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/vyomkulshrestha)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-333?style=for-the-badge)](https://github.com/VyomKulshrestha)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VyomKulshrestha&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=b1bac4&hide_border=false)](https://github.com/VyomKulshrestha)
 
 <br/>
 
-*"Agents deserve a kernel designed for them — not borrowed from 1970s Unix."*
+**Build ambitious systems. Measure what they actually do. Publish the gap.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3b5a,50:161b22,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>

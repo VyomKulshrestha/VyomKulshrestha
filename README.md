@@ -26,8 +26,8 @@ That is why my projects publish capability boundaries, reproducible evidence, fa
 
 | Project | What exists today | Start with the evidence |
 |---|---|---|
-| [**Heliox OS**](https://github.com/VyomKulshrestha/Heliox-OS) | Local-first desktop agent for typed, voice, gesture, gaze, browser, application, and system interaction. Its 21-specialist mesh registers providers for 156 declared actions. | [Website](https://www.helioxos.dev) · [Proof](https://www.helioxos.dev/proof.html) · [Capabilities](https://www.helioxos.dev/capabilities.json) |
-| [**FerrumOS**](https://github.com/VyomKulshrestha/Ferrum-OS) | Bootable x86_64 Rust research OS with Ring-3 userland, 61 capability-gated syscalls, 41 canonical agent operations, and a JEPA-assisted predictive safety screen. | [Website](https://ferrum-os.vercel.app) · [Proof](https://ferrum-os.vercel.app/proof) · [Research paper](https://doi.org/10.5281/zenodo.21829808) |
+| [**Heliox OS**](https://github.com/VyomKulshrestha/Heliox-OS) | Local-first desktop agent for typed, voice, gesture, gaze, browser, application, system, and local MCP interaction. Current source registers 157 actions across 21 specialists; the published v0.11.1 installer is a separate 156-action snapshot. | [Website](https://www.helioxos.dev) · [Proof](https://www.helioxos.dev/proof.html) · [Capabilities](https://www.helioxos.dev/capabilities.json) |
+| [**FerrumOS**](https://github.com/VyomKulshrestha/Ferrum-OS) | Bootable x86_64 Rust research OS with Ring-3 userland, capability-gated syscalls, a JEPA-assisted safety screen, and a simulator-backed cyber-physical software tier. | [Website](https://ferrum-os.vercel.app) · [Proof](https://ferrum-os.vercel.app/proof) · [Research paper](https://doi.org/10.5281/zenodo.21829808) |
 | [**Nucle-OS**](https://github.com/VyomKulshrestha/Nucle-OS) | Software-defined DNA storage engine plus NucleScript, a compiler-checked DSL for molecular-storage workflows. The current workspace documents 729 discovered tests. | [README and benchmarks](https://github.com/VyomKulshrestha/Nucle-OS#readme) · [Live playground](https://nuclescript.github.io/playground/) |
 
 ---
@@ -41,19 +41,20 @@ That is why my projects publish capability boundaries, reproducible evidence, fa
 [![Stars](https://img.shields.io/github/stars/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/stargazers)
 [![Forks](https://img.shields.io/github/forks/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/forks)
 [![Release](https://img.shields.io/github/v/release/VyomKulshrestha/Heliox-OS?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/releases)
+[![Downloads](https://img.shields.io/github/downloads/VyomKulshrestha/Heliox-OS/total?style=flat-square&color=7c6fe0&labelColor=0d1117)](https://github.com/VyomKulshrestha/Heliox-OS/releases)
 [![CI](https://img.shields.io/github/actions/workflow/status/VyomKulshrestha/Heliox-OS/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/VyomKulshrestha/Heliox-OS/actions/workflows/ci.yml)
 
 </div>
 
 Heliox is an MIT-licensed desktop agent for Windows, macOS, and Linux. It converts natural-language and opt-in multimodal input into validated plans, asks before risky work, and routes actions through permission and verification contracts.
 
-- **156 declared action types** backed by **21 executable specialists**.
+- Current source declares **157 action types** backed by **21 executable specialists**; the published v0.11.1 installer remains a **156-action** snapshot.
 - Text, continuous voice, gesture, gaze-region signals, screen context, and experimental neural input share a priority-controlled interaction path.
 - Local and cloud model providers, plugin manifests, a repository-governed marketplace, approval gates, rollback planning, and outcome verification.
 - Public capability catalog, benchmark artifacts, release feeds, failure notes, and agent-readable documentation.
-- The measured guarded CPU-status fast path is **28.640 ms median / 30.490 ms p95** across 100 non-LLM iterations; it is not presented as end-to-end voice, browser, provider, or UI latency.
+- The measured guarded CPU-status fast path is **27.921 ms median / 32.178 ms p95** across 100 non-LLM iterations; it is not presented as end-to-end voice, browser, provider, or UI latency.
 
-**Current limitation:** provider coverage is not the same as independently observed success. Eleven of the 156 actions currently have an independent post-condition verifier; hardware accuracy for microphones, cameras, gaze, gestures, and EEG requires human testing.
+**Current limitation:** provider coverage is not the same as independently observed success. Eleven of the 157 current-source actions have an independent post-condition verifier; hardware accuracy for microphones, cameras, gaze, gestures, and EEG requires human testing.
 
 ---
 
@@ -74,12 +75,13 @@ FerrumOS studies what changes when an agent acts through an operating-system sec
 - **61-syscall ABI**, **41 canonical agent operations**, and **five permission tiers**.
 - Every public tool path passes through deterministic policy and a provider-independent predictive screen before execution.
 - Public QEMU evidence covers **101/101 focused command paths** and **81/81 catalog entries** for the recorded audit commit.
+- The simulator-backed cyber-physical software tier passes **152/152 deterministic contracts** and **32/32 physical-model, robustness, and neural-decoder gates**.
 - Ring-3 world-model preview measurements span **1.29–1.57 ms** run means across H=1…5 with zero measured heap growth in three runs.
 - Synthetic neural intent is bounded and fail-closed; physical predictions remain shadow-only and cannot grant actuator authority.
 
 The published fixture reports **81.4% balanced accuracy for rules + JEPA vs 81.2% for rules + a per-action mean baseline**. That is deliberately documented as no material JEPA advantage on that fixture—not hidden behind the headline.
 
-> FerrumOS is a QEMU/Bochs research OS, not a claim of broad physical-PC compatibility, formal safety certification, or validated live EEG control.
+> FerrumOS is a QEMU/Bochs research OS. The cyber-physical results are software and simulator evidence—not proof of installed third-party simulators or transports, robot execution, broad physical-PC compatibility, hard-real-time behavior, formal safety certification, or validated live EEG control.
 
 ---
 

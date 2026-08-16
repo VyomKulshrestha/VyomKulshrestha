@@ -26,7 +26,7 @@ That is why my projects publish capability boundaries, reproducible evidence, fa
 
 | Project | What exists today | Start with the evidence |
 |---|---|---|
-| [**Heliox OS**](https://github.com/VyomKulshrestha/Heliox-OS) | Local-first desktop agent for typed, voice, gesture, gaze, browser, application, system, and local MCP interaction. Current source registers 157 actions across 21 specialists; the published v0.11.1 installer is a separate 156-action snapshot. | [Website](https://www.helioxos.dev) · [Proof](https://www.helioxos.dev/proof.html) · [Capabilities](https://www.helioxos.dev/capabilities.json) |
+| [**Heliox OS**](https://github.com/VyomKulshrestha/Heliox-OS) | Local-first governed desktop agent for typed, voice, gesture, gaze, browser, application, IDE, and system interaction. Its 21-specialist mesh registers providers for 157 declared actions. | [v0.12.0](https://github.com/VyomKulshrestha/Heliox-OS/releases/tag/v0.12.0) · [Website](https://www.helioxos.dev) · [Proof](https://www.helioxos.dev/proof.html) · [Capabilities](https://www.helioxos.dev/capabilities.json) |
 | [**FerrumOS**](https://github.com/VyomKulshrestha/Ferrum-OS) | Bootable x86_64 Rust research OS with Ring-3 userland, capability-gated syscalls, a JEPA-assisted safety screen, and a simulator-backed cyber-physical software tier. | [Website](https://ferrum-os.vercel.app) · [Proof](https://ferrum-os.vercel.app/proof) · [Research paper](https://doi.org/10.5281/zenodo.21829808) |
 | [**Nucle-OS**](https://github.com/VyomKulshrestha/Nucle-OS) | Software-defined DNA storage engine plus NucleScript, a compiler-checked DSL for molecular-storage workflows. The current workspace documents 729 discovered tests. | [README and benchmarks](https://github.com/VyomKulshrestha/Nucle-OS#readme) · [Live playground](https://nuclescript.github.io/playground/) |
 
@@ -48,13 +48,14 @@ That is why my projects publish capability boundaries, reproducible evidence, fa
 
 Heliox is an MIT-licensed desktop agent for Windows, macOS, and Linux. It converts natural-language and opt-in multimodal input into validated plans, asks before risky work, and routes actions through permission and verification contracts.
 
-- Current source declares **157 action types** backed by **21 executable specialists**; the published v0.11.1 installer remains a **156-action** snapshot.
+- **157 declared action types** backed by **21 executable specialists**.
 - Text, continuous voice, gesture, gaze-region signals, screen context, and experimental neural input share a priority-controlled interaction path.
-- Local and cloud model providers, plugin manifests, a repository-governed marketplace, approval gates, rollback planning, and outcome verification.
+- Local and cloud model providers plus text-only planning through officially authenticated Codex and Claude Code CLIs; provider credentials remain with the provider tools.
+- Local IDE MCP, secure Air Handoff, calendar/email/allowlisted-SSH integrations, plugin manifests, a repository-governed marketplace, approval gates, rollback planning, and outcome verification.
 - Public capability catalog, benchmark artifacts, release feeds, failure notes, and agent-readable documentation.
-- The measured guarded CPU-status fast path is **27.921 ms median / 32.178 ms p95** across 100 non-LLM iterations; it is not presented as end-to-end voice, browser, provider, or UI latency.
+- The measured guarded CPU-status fast path is **27.229 ms median / 29.476 ms p95** across 100 non-LLM iterations; it is not presented as end-to-end voice, browser, provider, or UI latency.
 
-**Current limitation:** provider coverage is not the same as independently observed success. Eleven of the 157 current-source actions have an independent post-condition verifier; hardware accuracy for microphones, cameras, gaze, gestures, and EEG requires human testing.
+**Current limitation:** provider coverage is not the same as independently observed success. Eleven of the 157 actions currently have an independent post-condition verifier; hardware accuracy for microphones, cameras, gaze, gestures, and EEG requires human testing.
 
 ---
 
